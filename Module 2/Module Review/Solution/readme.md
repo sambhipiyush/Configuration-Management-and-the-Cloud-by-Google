@@ -11,3 +11,5 @@ Understands the basics of Puppet, including:
 * How to create Puppet classes and rules
 * How Puppet interacts with different OSs
 * How to use the DSL to create complex rules
+
+#Where is the answer?
